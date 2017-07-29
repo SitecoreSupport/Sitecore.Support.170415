@@ -63,14 +63,7 @@
     <Reference Include="System.Configuration" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="CloneToCommand.cs" />
-    <Compile Include="CopyToCommand.cs" />
-    <Compile Include="DeleteCommand.cs" />
-    <Compile Include="MoveToCommand.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-  </ItemGroup>
-  <ItemGroup>
-    <Content Include="App_Config\Include\zzz\Sitecore.Support.170415.config" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
